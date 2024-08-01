@@ -6,3 +6,5 @@ Pomodoro is a technique where we maximize our productivity by working for 25 min
 - Learn how to work with time in python
 - Learn how to design UI
 ## Demo
+https://github.com/user-attachments/assets/0f45a0b2-4eb7-488a-b3c6-afea2ebce7ff
+
